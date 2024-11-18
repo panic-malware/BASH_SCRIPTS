@@ -1,6 +1,6 @@
 cd BASH_SCRIPTS
 
-chmod +x Website_Status_Checker.sh
+chmod +x filename.sh
 
-./Website_Status_Checker.sh
+./filename.sh
 
